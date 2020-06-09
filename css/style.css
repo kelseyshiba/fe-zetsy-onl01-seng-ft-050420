@@ -34,3 +34,7 @@ h2 {
   font-size: 32px;
   color: #6F7F7A;
 }
+
+#featured img {
+  border: 5px rgb(152,173,166) solid;
+}
