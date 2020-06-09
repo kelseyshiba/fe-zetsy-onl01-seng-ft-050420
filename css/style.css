@@ -38,3 +38,10 @@ h2 {
 #featured img {
   border: 5px rgb(152,173,166) solid;
 }
+
+p {
+  font-family: Times New Roman, serf;
+  font-size: 16px;
+  margin: 0 0 0 20px;
+  color: #555555;
+}
