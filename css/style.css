@@ -54,3 +54,8 @@ section {
   font-size: 0.8em;
   float: right;
 }
+
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
