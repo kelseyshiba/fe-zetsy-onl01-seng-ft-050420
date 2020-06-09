@@ -21,6 +21,7 @@ body {
 h1 {
   margin: 0 0 5px;
   padding: 0 0 10px;
+  border-bottom: 1px solid #ccc;
 }
 header {
   background: transparent;
